@@ -19,9 +19,9 @@
 
 - 不想手写约束
 
-  ![img1](/Users/liulishuo/Documents/resource/开源项目/TinyLayout/Images/img1.png)
+  ![img1](./Images/img1.png)
 
-![img2](/Users/liulishuo/Documents/resource/开源项目/TinyLayout/Images/img2.png)
+![img2](./Images/img2.png)
 
 - 不方便引用第三方布局库
 
@@ -29,13 +29,13 @@
 
 ### 37个文件 vs 1个文件
 
-<img src="/Users/liulishuo/Documents/resource/开源项目/TinyLayout/Images/img3.png" alt="img3" style="zoom:50%;" />
+<img src="./Images/img3.png" alt="img3" style="zoom:50%;" />
 
 ### UML
 
 #### SnapKit
 
-![SnapKit_UML](/Users/liulishuo/Documents/resource/开源项目/TinyLayout/Images/SnapKit_UML.png)
+![SnapKit_UML](./Images/SnapKit_UML.png)
 
 
 
@@ -46,7 +46,7 @@
 
 #### TinyLayout
 
-![TinyLayout_UML](/Users/liulishuo/Documents/resource/开源项目/TinyLayout/Images/TinyLayout_UML.png)
+![TinyLayout_UML](./Images/TinyLayout_UML.png)
 
 ### 功能对比
 
@@ -72,7 +72,7 @@
 
 - Snapkit 每一条布局语句make会激活一次约束，效率低
 
-![img4](/Users/liulishuo/Documents/resource/开源项目/TinyLayout/Images/img4.png)
+![img4](./Images/img4.png)
 
 - 同理Snapkit在删除约束时也是一条一条的deactivate，效率低
 
