@@ -61,7 +61,7 @@
 | 赋值          | ==         | equalTo()                               |
 | 大于等于      | >=         | greaterThanOrEqualTo()                  |
 | 小于等于      | <=         | lessThanOrEqualTo()                     |
-| UILayoutGuide | ❌          | ✅                                       |
+| UILayoutGuide | ✅          | ✅                                       |
 | 优先级        | ~          | priority()                              |
 | DEBUG标签     | ❌          | ✅                                       |
 | 多线程安全    | ❌          | ❌                                       |
